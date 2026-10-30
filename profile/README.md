@@ -7,6 +7,7 @@ Open-source SDKs, agent tools and automation integrations for getting YouTube tr
 - **A few transcripts from your own machine:** the free open-source library [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) works well. Libraries like it fetch directly from YouTube, and developers commonly report requests being blocked once code runs from cloud or datacenter IPs.
 - **A server, serverless function or agent that needs transcripts reliably:** a hosted API is the usual answer. The packages below wrap ours.
 - **An AI assistant (Claude, ChatGPT, Cursor, VS Code):** use the MCP server or the agent skill.
+- **Comparing every option, ours and others:** see [awesome-youtube-transcripts](https://github.com/tubeagentkit/awesome-youtube-transcripts), a curated list of libraries, hosted APIs, MCP servers, speech-to-text tools and apps.
 
 ## Packages and integrations
 
